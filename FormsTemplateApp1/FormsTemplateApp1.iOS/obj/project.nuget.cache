@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "80+OJ1e7fddaLdRT7r/Vj1FZ06ea7aibyhyrRKPvv1Um++KIrSig4KrxK+n5XswUbWNEeTlwy+9M86L5cScMiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mehul\\source\\repos\\FormsTemplateApp1\\FormsTemplateApp1\\FormsTemplateApp1.iOS\\FormsTemplateApp1.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mehul\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\mehul\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
